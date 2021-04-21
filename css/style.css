@@ -264,7 +264,7 @@ nav .navbar a:hover{
     -o-transform:translateX(-50%);
 }
 header.hero{
-    height:600px;
+    height:450px;
     background-image:url(../images/hero.png);
     background-position: 0% 0%;
     background-repeat: no-repeat;
@@ -285,7 +285,7 @@ header.hero .welcome span{
 header.hero h1{
     font-family:"Raleway-extrabold";
     color:var(--secondary);
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     margin-bottom:0.75rem;
 }
 header.hero h1 span{
@@ -594,6 +594,7 @@ section.latest-news .article-wrapper{
 }
 .latest-news .article-wrapper .card img{
     width:100%;
+    height: 500px;
 }
 .latest-news .article-wrapper .card .card-content{
     padding:2rem;
