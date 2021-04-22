@@ -217,11 +217,11 @@ nav .navbar a{
     -o-transition:all .3s ease;
 }
 nav .navbar a.active{
-    background:var(--primary);
+    background:#3b34fa;
     color:var(--pure);
 }
 nav .navbar a:hover{
-    background:var(--primary);
+    background:#55f808;
     color:var(--pure); 
 }
 .magic-shadow{
